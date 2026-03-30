@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # "Using bsdiff/bspatch because my implementation sucks."
+# Game Link: https://archive.org/details/kingdom-rush-frontie-15717
 
-echo -e "Millionare patch. Start a new game with:\n" \
+echo -e "Millionare patch for the version 1.1.6a. Start a new game with:\n" \
         "- All the Heroes unlocked (max lvl, all the abilities)\n" \
         "- All the Levels available and completed\n" \
         "- All the Game Upgrades\n" \
